@@ -38,27 +38,22 @@ public class Solution {
     }
 
     public double add(double num1, double num2) {
-        //implement code here
         return num1 + num2;
     }
 
     public double subtract(double num1, double num2) {
-        //implement code here
         return num1 - num2;
     }
 
     public double multiply(double num1, double num2) {
-        //implement code here
         return num1 * num2;
     }
 
     public int quotient(int num1, int num2) {
-        //implement code here
         return num1 / num2;
     }
 
     public int remainder(int num1, int num2) {
-        //implement code here
         return num1 % num2;
     }
 
